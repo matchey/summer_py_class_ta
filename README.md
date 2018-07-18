@@ -1,1 +1,2 @@
 # summer_py_class_ta
+Python夏休みシステム講習会演習問題
